@@ -5,8 +5,6 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tozare" alt="tozare" /></a> </p> -->
 
-- 🔭 I’m currently working on **Sizze**
-
 - 🌱 I'm acknowledged with following tech stack **React js, Effector, Sliced-design methodology, HTML/CSS, Git, Jest Unit Testing, Redux, Figma, UI/UX design, Docker, CI/CD, Jira, Javascript/Typescript, C++, Node js**
 
 - 📫 How to reach me **emir.kuanyshev.ktl@gmail.com**
