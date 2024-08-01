@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tozare" alt="tozare" /></a> </p> -->
 
-- 🌱 I'm acknowledged with following tech stack **React js, Effector, Sliced-design methodology, HTML/CSS, Git, Jest Unit Testing, Redux, Figma, UI/UX design, Docker, CI/CD, Jira, Javascript/Typescript, C++, Node js**
+- 🌱 I'm acknowledged with following tech stack **Next js, React js, Effector, Sliced-design methodology, HTML/CSS, Git, Jest Unit Testing, Redux, Figma, UI/UX design, Docker, CI/CD, Jira, Javascript/Typescript, C++, Node js/Nest js**
 
 - 📫 How to reach me **emir.kuanyshev.ktl@gmail.com**
 
