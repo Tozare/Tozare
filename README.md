@@ -23,3 +23,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tozare&show_icons=true&locale=en" alt="tozare" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tozare&" alt="tozare" /></p> -->
+
+<h1 align="center">Last year contributions from organizational github account</h1>
+<img width="1495" alt="Screenshot 2024-08-01 at 15 27 05" src="https://github.com/user-attachments/assets/ca2998a1-d2c7-4a97-9d01-ac2b4bc95819">
+
